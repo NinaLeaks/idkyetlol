@@ -1,13 +1,10 @@
-# idkyetlol
-# variables should bE: hero and villian, hated and loved by ur species, ur Loyalty, peaceful or violent
-#fiercealienorsoldierprotectingship
 In the middle of an out of this world war on the Achilles space craft, will you prevail as the leader of a merciless alien race, or the elite human soldier that will save the lives of mankind? Or rather, become a villian in your own right, ready to rule both races for yourself?
 
 You knew, eventually, it would come down to this. A stand off. A final battle that will be immortalized in intergalactic history forever. In this very moment, you think back to the choices you made that led you here. Are you proud of them? Do you wish you did things differently, or has your fate been sealed long before you knew it yourself?
 
 Of course, in the century long war between humans and Xenans, your opinion on the war was always expected to be the most obvious - the majority amongst your species. Considering you are...
 *choice
-   human, of course. What else would I be?
+   #A human, of course. What else would I be?
     As a human, you were raised surrounded by Anti-Xenan propoganda. Aliens, their sole existence to kill humans without mercy. Everyone around you agrees: the Xenan race should be wiped out - once and for all. But do you agree?
   *choice 
     #No, I believe we can all live in harmony. Peace is the only solution. And it is the right one.
