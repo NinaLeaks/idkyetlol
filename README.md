@@ -1,3 +1,19 @@
+*title Falling Ships
+*author Nicole Martinez
+
+*scene_list
+   startup
+   
+*stat_chart
+   text name
+  opposed_pair Loyalty
+    Trechary
+  opposed_pair Leader
+    Lone Wolf
+  opposed_pair Merciful
+    Merciless
+
+
 In the middle of an out of this world war on the Achilles space craft, will you prevail as the leader of a merciless alien race, or the elite human soldier that will save the lives of mankind? Or rather, become a villian in your own right, ready to rule both races for yourself?
 
 You knew, eventually, it would come down to this. A stand off. A final battle that will be immortalized in intergalactic history forever. In this very moment, you think back to the choices you made that led you here. Are you proud of them? Do you wish you did things differently, or has your fate been sealed long before you knew it yourself?
