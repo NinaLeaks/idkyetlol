@@ -9,9 +9,11 @@
   opposed_pair Loyalty
     Trechary
   opposed_pair Leader
-    Lone Wolf
+    Follower
   opposed_pair Merciful
     Merciless
+  opposed_pair Strength in Numbers
+     Lone Wolf
 
 
 In the middle of an out of this world war on the Achilles space craft, will you prevail as the leader of a merciless alien race, or the elite human soldier that will save the lives of mankind? Or rather, become a villian in your own right, ready to rule both races for yourself?
