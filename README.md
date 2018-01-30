@@ -14,18 +14,24 @@
     Merciless
   opposed_pair Strength in Numbers
      Lone Wolf
+     
+ *create name ""
+ 
 
 
 In the middle of an out of this world war on the Achilles space craft, will you prevail as the leader of a merciless alien race, or the elite human soldier that will save the lives of mankind? Or rather, become a villian in your own right, ready to rule both races for yourself?
 
 You knew, eventually, it would come down to this. A stand off. A final battle that will be immortalized in intergalactic history forever. In this very moment, you think back to the choices you made that led you here. Are you proud of them? Do you wish you did things differently, or has your fate been sealed long before you knew it yourself?
 
-Of course, in the century long war between humans and Xenans, your opinion on the war was always expected to be the most obvious - the majority amongst your species. Considering you are...
+Of course, in the century long war between humans and Xenans, your opinion on the war was always expected to be the most obvious - the majority amongst your species. 
+
+So your opinion on this feud must be obvious, considering you are...
 *choice
    #A human, of course. What else would I be?
     As a human, you were raised surrounded by Anti-Xenan propoganda. Aliens, their sole existence to kill humans without mercy. Everyone around you agrees: the Xenan race should be wiped out - once and for all. But do you agree?
-  *choice 
-    #No, I believe we can all live in harmony. Peace is the only solution. And it is the right one.
+ 
+ *choice 
+  #No, I believe we can all live in harmony. Peace is the only solution. And it is the right one.
       You strive for peace amongst species. To you, the propoganda is just that: propoganda. You have high morals, something that can easily be lost after years of war...
     #No, but I am loyal to my fellow humans and will do anything I can to protect them.
       Although you wish for a more peaceful way, you know you have to do what you have to do - even if it means going against your beliefs. You hold a great sense of loyalty towards your people.
@@ -36,7 +42,8 @@ Of course, in the century long war between humans and Xenans, your opinion on th
         *finish
   #Xenan-born. What else would I be?
     Born from the Earth-like planet of Xena, you grew up under the watchful eyes of the Xenan Council. They all adhere to one common belief: Humans are the enemy. Their nature is to colonize and destroy, and if not careful, your species can be the next to be wiped out unfairly, simply for being what you are. That is enough to stir hate in any Xenan, but are you a part of that majority?
-    *choice
+   
+   *choice
       #No, humans deserve a chance, as do we. I do not believe violence is the answer.
         Despite what you've been told, you believe humans can be redeemed. Your morals are high, but you deeply hope you are not wrong...
       #No, but I will protect myself if I have to. I refuse to let my species become another casualty of irratic behavior that is human nature.
@@ -47,6 +54,19 @@ Of course, in the century long war between humans and Xenans, your opinion on th
         The humans should be afraid, especially the one that comes face to face with you, because you are not going to hesitate to stick their head on a spike! Luckily, you have the support of many others on the planet.
      *finish
    *finish
+   
+   You have no idea how this impending war will end. What you do know is, that it depends on you if you might (or might not) have a role in it.
+   
+You sit up with a gasp, your head throbbing. The moment you opened your eyes the details of your dream slip away, but the lingering feeling of a nightmare still clings tight. Your eyes glide over to the ceiling, where a glowing set of numbers hover above you.
+
+3:38 AM. 
+
+Sheesh. With a sigh, you turn your head to the mirror next to the front door. You squint your eyes, waiting for them to adjust to the thick darkness. 
+
+What you see in the mirror is..
+   *A female...
+   
+   
    
         
         
